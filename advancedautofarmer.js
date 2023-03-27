@@ -12,8 +12,8 @@
 
 // @homepageURL   https://github.com/Kayno0o/pokeclicker/
 // @supportURL    https://github.com/Kayno0o/pokeclicker/issues
-// @downloadURL   https://raw.githubusercontent.com/Kayno0o/pokeclicker/main/advancedautofarmer.user.js
-// @updateURL     https://raw.githubusercontent.com/Kayno0o/pokeclicker/main/advancedautofarmer.user.js
+// @downloadURL   https://raw.githubusercontent.com/kayno0o/pokeclicker/master/advancedautofarmer.js
+// @updateURL     https://raw.githubusercontent.com/kayno0o/pokeclicker/master/advancedautofarmer.js
 // ==/UserScript==
 
 function initAdvancedAutoFarm() {
